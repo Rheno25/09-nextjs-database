@@ -49,3 +49,11 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 
 ### Jawaban Soal 7
 ![Screenshot](assets/7.png)
+
+## Week 10
+
+### Jawaban Soal 1
+![Screenshot](assets/8.png)
+
+### Jawaban Soal 2
+![Screenshot](assets/9.png)
